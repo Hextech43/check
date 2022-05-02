@@ -28,7 +28,7 @@ const Header = () => {
           scroll.scrollToTop();
         }}
       >
-       <img src="/images/global.jpg"/>
+       <img src="/images/globaL.jpg"/>
       </Logo>
       <Wrapper>
         <Link to="home">
