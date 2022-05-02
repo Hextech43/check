@@ -90,7 +90,7 @@ const Header = () => {
             </Cancel>
           </Top>
           <Rest>
-            <Logo2 src="/images/global.jpg" />
+            <Logo2 src="/images/globaL.jpg" />
             <Nav2>
               {" "}
               <MyLink to="home">
