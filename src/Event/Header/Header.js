@@ -77,7 +77,7 @@ const Header = () => {
       <AiOutlineMenu onClick={handleShow} />
       </Hold>
     
-      <Buttons><a "_blank" href="https://form.jotform.com/221222711927550">Book A Space</a></Buttons>
+      <Buttons><a target="_blank" href="https://form.jotform.com/221222711927550">Book A Space</a></Buttons>
     </Container>
   {
     show?(
@@ -146,6 +146,7 @@ const Buttons = styled.div`
   /* margin-left: 30px; */
   a{
   text-decoration:none;
+  font-color:white;
   }
   @media screen and (max-width: 768px) {
  display:none ;
