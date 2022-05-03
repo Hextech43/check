@@ -44,7 +44,7 @@ const Host = () => {
     </Cards>
 </Dayholder>
 {
-    day1?(
+    day3?(
         <>
         
    <Speaker>
