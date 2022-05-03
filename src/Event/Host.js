@@ -30,7 +30,7 @@ const Host = () => {
        <Wrapper>
         
 <Dayholder>
-    <Cards onClick={handleDAy1}>
+    <Cards onClick={handleDAy3}>
         <span>Day 1</span>
         <span>25th May, 2022</span>
     </Cards>
@@ -38,7 +38,7 @@ const Host = () => {
         <span>Day 2</span>
         <span>25th May, 2022</span>
     </Cards>
-    <Cards onClick={handleDAy3}>
+    <Cards onClick={handleDAy1}>
         <span>Day 3</span>
         <span>25th May, 2022</span>
     </Cards>
