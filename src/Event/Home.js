@@ -31,6 +31,9 @@ const Buttons = styled.div`
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  a{
+  text-decoration:none;
+  }
 `;
 
 const Image = styled.img`
