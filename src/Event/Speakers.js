@@ -128,9 +128,9 @@ const MainContainer = styled.div`
 width:100% ;
 height:100% ;
 display: flex;
-justify-content:between;
+justify-content:space-between;
 
-padding:0 20px;
+
 /* background:red ; */
 @media screen and (max-width: 769px) {
 flex-direction:column ;
