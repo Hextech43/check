@@ -33,7 +33,7 @@ const Buttons = styled.div`
   cursor: pointer;
   a{
   text-decoration:none;
-  font-color:white;
+  color:white;
   }
 `;
 
