@@ -8,11 +8,11 @@ const Footer = ({ txtA }) => {
     <Container txtA={txtA}>
       <Left txtA={txtA}>
         <Logo>TECH CONGRESS</Logo>
-        <Write txtA={txtA}>
-          oth rest of know draw fond post as. It agreement defective to
-          excellent. Feebly do engage of narrow. Extensive repulsive belonging
-          depending if promotion be zealously as
-        </Write>
+//         <Write txtA={txtA}>
+//           oth rest of know draw fond post as. It agreement defective to
+//           excellent. Feebly do engage of narrow. Extensive repulsive belonging
+//           depending if promotion be zealously as
+//         </Write>
         <Icon>
           <FaFacebook />
           <AiOutlineTwitter />
