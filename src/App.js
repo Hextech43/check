@@ -17,7 +17,6 @@ const App = () => {
 <Header/>
      <Home/>
      <About />
-     <Speakers/>
      <Host/>
      <Footer/>
      {/* <Test/> */}
