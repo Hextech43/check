@@ -130,7 +130,7 @@ height:100% ;
 display: flex;
 justify-content:between;
 
-margin:0 20px;
+padding:0 20px;
 /* background:red ; */
 @media screen and (max-width: 769px) {
 flex-direction:column ;
