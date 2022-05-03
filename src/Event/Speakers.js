@@ -27,9 +27,8 @@ const Home = () => {
             <img src="/images/adedoyin.jpg" />
             <span>CHIEF HOST AND PANELIST 2</span>
             <p>
-             
- ADEDOYIN OLUYEMI
- </p>
+             ADEDOYIN OLUYEMI
+            </p>
           </a>
         </Wrapper>
         <Wrapper>
@@ -129,9 +128,9 @@ const MainContainer = styled.div`
 width:100% ;
 height:100% ;
 display: flex;
-/* margin-bottom:30px ;
- */
-margin-right:20px ;
+justify-content:between;
+
+margin:0 20px;
 /* background:red ; */
 @media screen and (max-width: 769px) {
 flex-direction:column ;
