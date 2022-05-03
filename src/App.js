@@ -4,7 +4,7 @@ import Header from './Event/Header/Header'
 import About from './Event/About'
 import Speakers from './Event/Speakers'
 import Host from './Event/Host'
-import Test from './Event/Test'
+
 
 
 
@@ -20,7 +20,7 @@ const App = () => {
     <Speakers/>
      <Host/>
      <Footer/>
-     {/* <Test/> */}
+   
 </div>
     
   
