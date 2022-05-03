@@ -41,15 +41,7 @@ const Home = () => {
             </p>
           </a>
         </Wrapper>
-        <Wrapper>
-          <a>
-            <img src="/images/mary.jpg" />
-            <span>PANELIST</span>
-            <p>
-            MARY SABASTINE 
-            </p>
-          </a>
-        </Wrapper>
+    
         
         
         </MainContainer>
