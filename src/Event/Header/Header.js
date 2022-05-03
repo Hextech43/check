@@ -103,11 +103,11 @@ const Header = () => {
               </MyLink>
               <MyLink to="about">
             
-                <span>Hosts</span>
+                <span>About</span>
               </MyLink>
               <MyLink to="host">
                
-                <span>Speakers</span>
+                <span>Hosts/Panelists</span>
               </MyLink>
               <MyLink to="speaker">
          
