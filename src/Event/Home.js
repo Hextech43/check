@@ -10,7 +10,9 @@ const Home = () => {
         <Describe>28TH - 30TH MAY 2022, LAGOS NIGERIA</Describe>
         <Titles>GLOBAL TRANSFORM CONGRESS 2022</Titles>
 
-        <Buttons>Register Here</Buttons>
+        <Buttons><a target="_blank" href="https://form.jotform.com/221222711927550">Register Here<a/></Buttons>
+  
+
       </Wrapper>
     </Container>
   );
