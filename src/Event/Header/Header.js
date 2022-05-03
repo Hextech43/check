@@ -77,7 +77,7 @@ const Header = () => {
       <AiOutlineMenu onClick={handleShow} />
       </Hold>
     
-      <Buttons>Book A Table</Buttons>
+      <Buttons>Book A Space</Buttons>
     </Container>
   {
     show?(
