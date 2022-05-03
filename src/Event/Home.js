@@ -10,7 +10,7 @@ const Home = () => {
         <Describe>28TH - 30TH MAY 2022, LAGOS NIGERIA</Describe>
         <Titles>GLOBAL TRANSFORM CONGRESS 2022</Titles>
 
-        <Buttons>Explore Now</Buttons>
+        <Buttons>Register Here</Buttons>
       </Wrapper>
     </Container>
   );
