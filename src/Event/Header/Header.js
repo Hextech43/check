@@ -77,7 +77,7 @@ const Header = () => {
       <AiOutlineMenu onClick={handleShow} />
       </Hold>
     
-      <Buttons><a target="_blank" href="https://form.jotform.com/221222711927550">Book A Space</a></Buttons>
+      <Buttons><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScsuKfIwt-1qNgGl82y0BljqcoChxmVEPcTtDNaZg2Vo1o-Zg/viewform">Book A Space</a></Buttons>
     </Container>
   {
     show?(
