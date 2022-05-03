@@ -147,7 +147,7 @@ const Buttons = styled.div`
   /* margin-left: 30px; */
   a{
   text-decoration:none;
-  font-color:white;
+  color:white;
   }
   @media screen and (max-width: 768px) {
  display:none ;
