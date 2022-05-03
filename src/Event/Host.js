@@ -46,95 +46,143 @@ const Host = () => {
 {
     day1?(
         <>
-        
-   <Speaker>
+         <Speaker>
            <Listed>
-           <Pictures src="/images/nduka.jpg"/>
+               <Pictures src="/images/frank.jpg"/>
                <About>
                    <Name>
                      
-                       <span>SPEAKER 1:  </span>
-                      <p>EMMANUEL NDUKA</p> 
-                  
+                       <span>Speaker: </span>
+                      <p> Frank Agin</p> 
+                    
                    </Name>
-                   <Timehold>
-                   <a>TOPIC: Choosing to gain global relevance</a>
-                  <p style={{fontWeight:"bold"}}> Time:  8:00pm  - 8:30pm</p>
-                  </Timehold>
-                   <Note>Emmanuel Nduka is the Most Influential Young personality on Linkedin.
-                        He is a Chemical engineering student and the Co/Founder of Hemm Africa.
-                        He is co-authoring a book that will transform lives.
-Emmanuel Nduka has gained the attention of notable personalities like 
-Tony Elumelu and was crowned the 30 Top Voices in Tech by Engati
-</Note>
+                   <a>Topic: Networking - The link to Global Relevance </a>
+                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p>
+                   <Note> president of AmSpirit Business. He is also the host of the Networking Rx podcast, a weekly short-form podcast 
+                       with insights and interviews related to better business relationships.
+                        </Note>
                </About>
 
            </Listed>
            <Listed>
-           <Pictures src="/images/denu.jpg"/>
+               <Pictures src="/images/omale.jpg"/>
                <About>
                    <Name>
                      
-                       <span> PANELIST 1:  </span>
-                      <p>DENU VOUR BON </p> 
+                       <span>PANELIST 1: </span>
+                      <p> EMMANUEL OMALE</p> 
                     
                    </Name>
-                   {/* <Timehold>
-                       <span>PANELIST 1:  </span>
-                      <p></p> 
-                      </Timehold> */}
-                   <Note> Denu Vour Bon, also known as the viral author, is the founder of GoLoko Diaries, 
-                       a book publishing company with over 2000 followership and over 200 team members.
-Denu Bon was recently recognized as one of the Top 50 young African influencers,
- his mission is not to only help people publish their books but to also achieve their dreams.
-</Note>
-               </About>
+                   {/* <a>Topic: Networking - The link to Global Relevance </a>
+                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p> */}
+                   <Note>He is a growth and plan strategist, entrepreneur, public speaker, 
+                       and personal development advocate.He strongly believes humans can 
+                       live to the max of their potential by becoming good learners.
 
-           </Listed>
-           <Listed>
-           <Pictures src="/images/philip.jpg"/>
-               <About>
-                   <Name>
-                     
-                       <span>SPEAKER 2: </span>
-                      <p>PHILIP OLADEJO </p> 
-                    
-                   </Name>
-                   <Timehold>
-                       <span> Topic: How to go about the pursuit of Greatness. What is required? </span>
-                      <p>Time: 6:50 pm to 7:30 pm</p> 
-                      </Timehold>
-                   {/* <Note> create ui/ux design for standard web Development and mobile
-              development.  I teach javascript making use of all the modern technologites </Note> */}
-               </About>
-
-           </Listed>
-          
-           <Listed>
-           <Pictures src="/images/claire.png"/>
-               <About>
-                   <Name>
-                     
-                       <span>SPEAKER 4:  </span>
-                      <p>OKEKE VIVIAN CLAIRE</p> 
-                    
-                   </Name>
-                   <Timehold>
-                       <span> TOPIC: The Wrap on gaining global relevance </span>
-                      <p>Time:7:40 pm to 8:30 pm</p> 
-                      </Timehold>
-                   <Note> Vivian Claire Okeke is the Founder of Global Transformation Conference, 
-                       an organization with the vision to transform, impact and help individuals break limits
-                        and reach their peak.Vivian Claire is also the Co-Founder of Black Owned 
-                        Digital. She is a smart marketer who believes in human marketing, 
-                        adding humanity to marketing while driving home ROIs. 
  </Note>
                </About>
 
            </Listed>
-         
+           <Listed>
+               <Pictures src="/images/akinde.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>SPEAKER 2: </span>
+                      <p>OLAMIDE AKINDE</p> 
+                  
+                   </Name>
+                   <a>    TOPIC: The platform to maximize for global relevance.</a>
+                  <div>Time: 6:50 pm - 7:20 pm</div>
+                   <Note> Olamide Akinde is an SEO content writer, social media manager, copywriter,
+                        and website developer. She has gained visibility for her brand and helps businesses build online authority.
+ </Note>
+               </About>
+
+           </Listed>
+           <Listed>
+               <Pictures src="/images/mary.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>PANELIST: </span>
+                      <p>MARY SABASTINE</p> 
+                    
+                   </Name>
+                   {/* <a>    TOPIC: The platform to maximize for global relevance.</a>
+                  <div>Time: 6:10 pm - 6:40 pm</div> */}
+                   <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
+                       in both paid and free classes on how to optimize their LinkedIn for profitability.
+                       She is a public speaker, personal branding expert, content writer and affiliate marketer. 
+                     </Note>
+               </About>
+
+           </Listed>
+           <Listed>
+               <Pictures src="/images/awa.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>SPEAKER 3:  </span>
+                      <p>AWA NDUKWE</p> 
+                    
+                   </Name>
+                   <a>    Topic: Positioning for Global Recognition </a>
+                  <div>Time: 7: 20 pm to 7: 50 pm</div> 
+                   <Note>
+Awa k. Ndukwe is the Brand Strategist at Optivity 
+Now and loves helping people discover themselves,
+ and actualize their dreams. Awa k. Ndukwe is also a brand coach who has created brand
+  leaders who are more prepared to lead their brands to success.
+
+                     </Note>
+               </About>
+
+           </Listed>
+        
+           <Listed>
+               <Pictures src="/images/goodness.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>SPEAKER 4:
+ </span>
+                      <p> GOODNESS SOMTOCHUKWU</p> 
+                    
+                   </Name>
+                   <a>   Topic: Hacking Skills for Global Opportunities</a>
+                  <div>Time: 7:30 - 8:00</div>
+                   <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
+                       in both paid and free classes on how to optimize their LinkedIn for profitability.
+                       She is a public speaker, personal branding expert, content writer and affiliate marketer. 
+                     </Note>
+               </About>
+
+           </Listed>
+           <Listed>
+               <Pictures src="/images/lanu.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>PANELIST 4:
+ </span>
+                      <p> GOODNEWS LANU AYANKOYA </p> 
+                    
+                   </Name>
+                   {/* <a>   Topic: Hacking Skills for Global Opportunities</a>
+                  <div>Time: 7:30 - 8:00</div> */}
+                   <Note>Goodnews Lanu Ayankoya, popularly known as Goody King, 
+                       is a medical student who evolved into a digital entrepreneur. 
+    Goodnews Lanu is a highly creative and motivated young lady
+         with content writing expertise
+
+                     </Note>
+               </About>
+
+           </Listed>
            </Speaker>
 
+  
        
         </>
     ):(
@@ -290,142 +338,97 @@ for One Active Supporter and the campus ambassador.
            </Speaker>
             ):(
                <>
-                 <Speaker>
+                
+
+ <Speaker>
            <Listed>
-               <Pictures src="/images/frank.jpg"/>
+           <Pictures src="/images/nduka.jpg"/>
                <About>
                    <Name>
                      
-                       <span>Speaker: </span>
-                      <p> Frank Agin</p> 
-                    
+                       <span>SPEAKER 1:  </span>
+                      <p>EMMANUEL NDUKA</p> 
+                  
                    </Name>
-                   <a>Topic: Networking - The link to Global Relevance </a>
-                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p>
-                   <Note> president of AmSpirit Business. He is also the host of the Networking Rx podcast, a weekly short-form podcast 
-                       with insights and interviews related to better business relationships.
-                        </Note>
+                   <Timehold>
+                   <a>TOPIC: Choosing to gain global relevance</a>
+                  <p style={{fontWeight:"bold"}}> Time:  8:00pm  - 8:30pm</p>
+                  </Timehold>
+                   <Note>Emmanuel Nduka is the Most Influential Young personality on Linkedin.
+                        He is a Chemical engineering student and the Co/Founder of Hemm Africa.
+                        He is co-authoring a book that will transform lives.
+Emmanuel Nduka has gained the attention of notable personalities like 
+Tony Elumelu and was crowned the 30 Top Voices in Tech by Engati
+</Note>
                </About>
 
            </Listed>
            <Listed>
-               <Pictures src="/images/omale.jpg"/>
+           <Pictures src="/images/denu.jpg"/>
                <About>
                    <Name>
                      
-                       <span>PANELIST 1: </span>
-                      <p> EMMANUEL OMALE</p> 
+                       <span> PANELIST 1:  </span>
+                      <p>DENU VOUR BON </p> 
                     
                    </Name>
-                   {/* <a>Topic: Networking - The link to Global Relevance </a>
-                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p> */}
-                   <Note>He is a growth and plan strategist, entrepreneur, public speaker, 
-                       and personal development advocate.He strongly believes humans can 
-                       live to the max of their potential by becoming good learners.
-
- </Note>
+                   {/* <Timehold>
+                       <span>PANELIST 1:  </span>
+                      <p></p> 
+                      </Timehold> */}
+                   <Note> Denu Vour Bon, also known as the viral author, is the founder of GoLoko Diaries, 
+                       a book publishing company with over 2000 followership and over 200 team members.
+Denu Bon was recently recognized as one of the Top 50 young African influencers,
+ his mission is not to only help people publish their books but to also achieve their dreams.
+</Note>
                </About>
 
            </Listed>
            <Listed>
-               <Pictures src="/images/akinde.jpg"/>
+           <Pictures src="/images/philip.jpg"/>
                <About>
                    <Name>
                      
                        <span>SPEAKER 2: </span>
-                      <p>OLAMIDE AKINDE</p> 
-                  
+                      <p>PHILIP OLADEJO </p> 
+                    
                    </Name>
-                   <a>    TOPIC: The platform to maximize for global relevance.</a>
-                  <div>Time: 6:50 pm - 7:20 pm</div>
-                   <Note> Olamide Akinde is an SEO content writer, social media manager, copywriter,
-                        and website developer. She has gained visibility for her brand and helps businesses build online authority.
+                   <Timehold>
+                       <span> Topic: How to go about the pursuit of Greatness. What is required? </span>
+                      <p>Time: 6:50 pm to 7:30 pm</p> 
+                      </Timehold>
+                   {/* <Note> create ui/ux design for standard web Development and mobile
+              development.  I teach javascript making use of all the modern technologites </Note> */}
+               </About>
+
+           </Listed>
+          
+           <Listed>
+           <Pictures src="/images/claire.png"/>
+               <About>
+                   <Name>
+                     
+                       <span>SPEAKER 4:  </span>
+                      <p>OKEKE VIVIAN CLAIRE</p> 
+                    
+                   </Name>
+                   <Timehold>
+                       <span> TOPIC: The Wrap on gaining global relevance </span>
+                      <p>Time:7:40 pm to 8:30 pm</p> 
+                      </Timehold>
+                   <Note> Vivian Claire Okeke is the Founder of Global Transformation Conference, 
+                       an organization with the vision to transform, impact and help individuals break limits
+                        and reach their peak.Vivian Claire is also the Co-Founder of Black Owned 
+                        Digital. She is a smart marketer who believes in human marketing, 
+                        adding humanity to marketing while driving home ROIs. 
  </Note>
                </About>
 
            </Listed>
-           <Listed>
-               <Pictures src="/images/mary.jpg"/>
-               <About>
-                   <Name>
-                     
-                       <span>PANELIST: </span>
-                      <p>MARY SABASTINE</p> 
-                    
-                   </Name>
-                   {/* <a>    TOPIC: The platform to maximize for global relevance.</a>
-                  <div>Time: 6:10 pm - 6:40 pm</div> */}
-                   <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
-                       in both paid and free classes on how to optimize their LinkedIn for profitability.
-                       She is a public speaker, personal branding expert, content writer and affiliate marketer. 
-                     </Note>
-               </About>
-
-           </Listed>
-           <Listed>
-               <Pictures src="/images/awa.jpg"/>
-               <About>
-                   <Name>
-                     
-                       <span>SPEAKER 3:  </span>
-                      <p>AWA NDUKWE</p> 
-                    
-                   </Name>
-                   <a>    Topic: Positioning for Global Recognition </a>
-                  <div>Time: 7: 20 pm to 7: 50 pm</div> 
-                   <Note>
-Awa k. Ndukwe is the Brand Strategist at Optivity 
-Now and loves helping people discover themselves,
- and actualize their dreams. Awa k. Ndukwe is also a brand coach who has created brand
-  leaders who are more prepared to lead their brands to success.
-
-                     </Note>
-               </About>
-
-           </Listed>
-        
-           <Listed>
-               <Pictures src="/images/goodness.jpg"/>
-               <About>
-                   <Name>
-                     
-                       <span>SPEAKER 4:
- </span>
-                      <p> GOODNESS SOMTOCHUKWU</p> 
-                    
-                   </Name>
-                   <a>   Topic: Hacking Skills for Global Opportunities</a>
-                  <div>Time: 7:30 - 8:00</div>
-                   <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
-                       in both paid and free classes on how to optimize their LinkedIn for profitability.
-                       She is a public speaker, personal branding expert, content writer and affiliate marketer. 
-                     </Note>
-               </About>
-
-           </Listed>
-           <Listed>
-               <Pictures src="/images/lanu.jpg"/>
-               <About>
-                   <Name>
-                     
-                       <span>PANELIST 4:
- </span>
-                      <p> GOODNEWS LANU AYANKOYA </p> 
-                    
-                   </Name>
-                   {/* <a>   Topic: Hacking Skills for Global Opportunities</a>
-                  <div>Time: 7:30 - 8:00</div> */}
-                   <Note>Goodnews Lanu Ayankoya, popularly known as Goody King, 
-                       is a medical student who evolved into a digital entrepreneur. 
-    Goodnews Lanu is a highly creative and motivated young lady
-         with content writing expertise
-
-                     </Note>
-               </About>
-
-           </Listed>
+         
            </Speaker>
-            
+
+                            
                </>
             )
         }
@@ -598,3 +601,5 @@ background-color:rgb(211,211,211,0.9);
 /* background-color:red ; */
 width:100%;
 `
+
+
