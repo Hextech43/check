@@ -140,6 +140,7 @@ const Buttons = styled.div`
   background-color: #ea0763;
   border-radius: 5px;
   padding: 10px 8px;
+  cursor:pointer;
   display: flex;
   align-items: center;
   justify-content: center;
