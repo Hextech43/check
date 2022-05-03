@@ -43,10 +43,10 @@ const Home = () => {
         </Wrapper>
         <Wrapper>
           <a>
-            <img src="/images/girl.jpg" />
-            <span>Javascript Instructor</span>
+            <img src="/images/mary.jpg" />
+            <span>PANELIST</span>
             <p>
-              I teach javascript making use of all the modern technologites 
+            MARY SABASTINE 
             </p>
           </a>
         </Wrapper>
