@@ -52,7 +52,7 @@ const Host = () => {
                <About>
                    <Name>
                      
-                       <span>Speaker: </span>
+                       <span>Speaker1: </span>
                       <p> Frank Agin</p> 
                     
                    </Name>
@@ -64,25 +64,27 @@ const Host = () => {
                </About>
 
            </Listed>
-           <Listed>
+   <Listed>
                <Pictures src="/images/omale.jpg"/>
                <About>
                    <Name>
                      
-                       <span>PANELIST 1: </span>
+                       <span>PANELIST 1:  </span>
                       <p> EMMANUEL OMALE</p> 
                     
                    </Name>
-                   {/* <a>Topic: Networking - The link to Global Relevance </a>
-                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p> */}
-                   <Note>He is a growth and plan strategist, entrepreneur, public speaker, 
-                       and personal development advocate.He strongly believes humans can 
-                       live to the max of their potential by becoming good learners.
+                   <a>Topic: Networking - The link to Global Relevance </a>
+                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p>
+                   <Note> Emmanuel Omale is a thought and dynamic leader and strategist.
+                   He strongly believes humans can live to the max of their potential by becoming good learners.
+He is a growth and plan strategist, entrepreneur, public speaker,
+    and personal development advocate. He calls himself THE LIGHT and is a good Christian.
 
- </Note>
+                        </Note>
                </About>
 
            </Listed>
+         
            <Listed>
                <Pictures src="/images/akinde.jpg"/>
                <About>
@@ -105,7 +107,7 @@ const Host = () => {
                <About>
                    <Name>
                      
-                       <span>PANELIST: </span>
+                       <span>PANELIST2: </span>
                       <p>MARY SABASTINE</p> 
                     
                    </Name>
@@ -139,6 +141,21 @@ Now and loves helping people discover themselves,
                </About>
 
            </Listed>
+  <Listed>
+               <Pictures src="/images/batly.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>PANELIST 3:  </span>
+                      <p> THE LADY CALLED BATLY</p> 
+                    
+                   </Name>
+                   {/* <a>Topic: Networking - The link to Global Relevance </a>
+                  <p style={{fontWeight:"bold"}}> Time: 6:10 pm - 6:40 pm</p> */}
+                   <Note> </Note>
+               </About>
+
+           </Listed>
         
            <Listed>
                <Pictures src="/images/goodness.jpg"/>
@@ -164,7 +181,7 @@ Now and loves helping people discover themselves,
                <About>
                    <Name>
                      
-                       <span>PANELIST 4:
+                       <span>PANELIST4:
  </span>
                       <p> GOODNEWS LANU AYANKOYA </p> 
                     
@@ -199,7 +216,7 @@ Now and loves helping people discover themselves,
                       <p>PETER EBUKA</p> 
                     
                    </Name>
-                   Topic: Positioning for Global Recognition 
+                 <a>  Topic: Positioning for Global Recognition </a>
                   <p style={{fontWeight:"bold"}}> Time: 6:10 pm to 6:40 pm</p>
                    <Note> 
 Peter  Ebuka Agbo is the Founder 
@@ -394,14 +411,37 @@ Denu Bon was recently recognized as one of the Top 50 young African influencers,
                     
                    </Name>
                    <Timehold>
-                       <span> Topic: How to go about the pursuit of Greatness. What is required? </span>
-                      <p>Time: 6:50 pm to 7:30 pm</p> 
+                       <a> Topic: How to go about the pursuit of Greatness. What is required? </a>
+                      <p style={{fontWeight:"bold"}}>Time: 6:50 pm to 7:30 pm</p> 
                       </Timehold>
-                   {/* <Note> create ui/ux design for standard web Development and mobile
-              development.  I teach javascript making use of all the modern technologites </Note> */}
+                    <Note> Philip Oladejo is the Founder of the Global Author's Club and Awards, 
+an organization that organizes and helps entrepreneurs add a Global Award 
+to their authority and become a Global winner. 
+He is an Inspirational Leader, Business and Transformational Coach, Health, 
+Safety, and Environmental Management Consultant, and Seasoned Speaker </Note> 
                </About>
 
            </Listed>
+
+ <Listed>
+           <Pictures src="/images/adedoyin.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>CHIEF HOST AND PANELIST 2: </span>
+                      <p> ADEDOYIN OLUYEMI </p> 
+                    
+                   </Name>
+                  
+                    <Note>Adedoyin Oluyemi is an Inimitable Content Writer, an Excellent Public Speaker,
+                        Quintessential Event Compere, and Educator who loves to refer to herself 
+                        as "The lady who loves to dare!" She is currently the Digital Media Strategist
+                    at Platinum & Taylor Hill LP and Public Relations
+                    Executive at the Society of Cosmetic Scientists, Nigeria. </Note> 
+               </About>
+
+           </Listed>
+
           
            <Listed>
            <Pictures src="/images/claire.png"/>
@@ -413,8 +453,8 @@ Denu Bon was recently recognized as one of the Top 50 young African influencers,
                     
                    </Name>
                    <Timehold>
-                       <span> TOPIC: The Wrap on gaining global relevance </span>
-                      <p>Time:7:40 pm to 8:30 pm</p> 
+                       <a> TOPIC: The Wrap on gaining global relevance </a>
+                      <p style={{fontWeight:"bold"}}>Time:7:40 pm to 8:30 pm</p> 
                       </Timehold>
                    <Note> Vivian Claire Okeke is the Founder of Global Transformation Conference, 
                        an organization with the vision to transform, impact and help individuals break limits
@@ -425,6 +465,29 @@ Denu Bon was recently recognized as one of the Top 50 young African influencers,
                </About>
 
            </Listed>
+
+ <Listed>
+           <Pictures src="/images/abiye.jpg"/>
+               <About>
+                   <Name>
+                     
+                       <span>LEADING HOST:  </span>
+                      <p> ABIYE ABERE</p> 
+                    
+                   </Name>
+                
+                   <Note> Abiye Abere is a first class graduate civil engineer,
+                       professional master of ceremonies, public speaker, coach, on-air personality 
+                       and creative content writer.
+He is also an active member of the world's leading professional 
+network of communicators, Toastmasters International.
+
+ </Note>
+               </About>
+
+           </Listed>
+         
+
          
            </Speaker>
 
