@@ -7,8 +7,8 @@ const Home = () => {
       <Image src="/images/land3.webp" />
 
       <Wrapper>
-        <Describe>13TH - 15TH MAY 2022, LAGOS NIGERIA</Describe>
-        <Titles>GLOBAL TRANSFORMATION CONGRESS 2022</Titles>
+        <Describe>13TH - 15TH MAY 2022, LAGOS NIGERIA.</Describe>
+        <Titles>GLOBAL TRANSFORMATION CONFERENCE 2022</Titles>
 
         <Buttons><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScsuKfIwt-1qNgGl82y0BljqcoChxmVEPcTtDNaZg2Vo1o-Zg/viewform">Register Here</a></Buttons>
   
@@ -110,5 +110,5 @@ const Container = styled.div`
   display: flex;
 
   position: relative;
-  /* background: red; */
+ 
 `;
