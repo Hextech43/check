@@ -15,11 +15,11 @@ const Home = () => {
    
         <Wrapper>
           <a>
-            <img src="/images/batly.jpg" />
-            <span>DAY1: PANELIST 3
+            <img src="/images/abiye.jpg" />
+            <span>LEADING HOST
 </span>
             <p>
-            THE LADY CALLED BATLY         </p>
+            ABIYE ABERE  </p>
           </a>
         </Wrapper>
         <Wrapper>
