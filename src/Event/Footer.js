@@ -21,26 +21,25 @@ const Footer = ({ txtA }) => {
           <ListHead>Companies</ListHead>
           <Lists>
             <List>Home</List>
-            <List>Product</List>
+            <List>Hosts</List>
             <List>About</List>
-            <List>Partners</List>
-            <List>Press</List>
+         
+            <List>Speakers</List>
             <List>Contact us</List>
           </Lists>
         </ListHolder>
         <ListHolder txtA={txtA}>
           <ListHead>Resources</ListHead>
           <Lists>
-            <List>WhyOfficeSpace</List>
+           
             <List>Customers Stories</List>
             <List>Blogs</List>
-            <List>Guilds</List>
+            <List>Guide</List>
           </Lists>
         </ListHolder>
         <Text txtA={txtA}>
           Copyright
-          <br /> @2022 Surprise steepest recurred landlord mr wandered amounted
-          of. Continuing devonshire but considered its. Rose
+          <br /> @2022 kidextech digitals
         </Text>
       </Right>
     </Container>
@@ -106,7 +105,7 @@ const Write = styled.div`
 
 const Icon = styled.div`
   margin-top: 20px;
-  color: #ff5200;
+  color: #ea0763;
   font-size: 25px;
   width: 150px;
   display: flex;
