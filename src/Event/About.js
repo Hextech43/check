@@ -29,7 +29,7 @@ We Transform!
 We Impact!
 We are Relevant!
 
-We have something huge planned for next month
+We have something huge planned for this month
           </Note>
         
         </Composition>
@@ -51,6 +51,7 @@ const Note = styled.div`
   text-align: justify;
   @media screen and (max-width: 769px) {
 margin-top:10px ;
+font-size:17px;
 }
 `;
 const About = styled.div`
