@@ -95,7 +95,7 @@ He is a growth and plan strategist, entrepreneur, public speaker,
                   
                    </Name>
                    <a>    TOPIC: The platform to maximize for global relevance.</a>
-                  <div>Time: 6:50 pm - 7:20 pm</div>
+                  <p style={{fontWeight:"bold"}}>Time: 6:50 pm - 7:20 pm</p>
                    <Note> Olamide Akinde is an SEO content writer, social media manager, copywriter,
                         and website developer. She has gained visibility for her brand and helps businesses build online authority.
  </Note>
@@ -111,9 +111,8 @@ He is a growth and plan strategist, entrepreneur, public speaker,
                       <p>MARY SABASTINE</p> 
                     
                    </Name>
-                   {/* <a>    TOPIC: The platform to maximize for global relevance.</a>
-                  <div>Time: 6:10 pm - 6:40 pm</div> */}
-                   <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
+                 
+                   <Note> Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
                        in both paid and free classes on how to optimize their LinkedIn for profitability.
                        She is a public speaker, personal branding expert, content writer and affiliate marketer. 
                      </Note>
@@ -168,7 +167,7 @@ Now and loves helping people discover themselves,
                     
                    </Name>
                    <a>   Topic: Hacking Skills for Global Opportunities</a>
-                  <div>Time: 7:30 - 8:00</div>
+                  <p style={{fontWeight:"bold"}}>Time: 7:30 - 8:00</p>
                    <Note>Mary Sabastine is a certified LinkedIn coach who has trained over 100 persons 
                        in both paid and free classes on how to optimize their LinkedIn for profitability.
                        She is a public speaker, personal branding expert, content writer and affiliate marketer. 
