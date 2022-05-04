@@ -11,25 +11,11 @@ const Home = () => {
         <Composition>
           <About>About GTC</About>
           <Note>
-          The beginning is now!
-
-The future is here!
-
-When Global Ambassadors meet, they impact the world.
-
-The world needs great people with transformative insights to make it better.
-
-We are glad to announce that over 200 amazing individuals have chosen to create generational impact and attain Global Relevance.
-
-We call them the Global Transformation Ambassadors.
-
-Our vision is to build a world of impact by equipping individuals with the knowledge, tools, and traits to make them globally relevant.
-
-We Transform!
-We Impact!
-We are Relevant!
-
-We have something huge planned for this month
+          Global Transformation Conference is an organization with
+ the mandate to transform the world. Our mission is to impact, increase individuals' global relevance
+ and make the knowledge of positive transformation accessible to everyone. We are building a world of impactful individuals, and we stand
+ by the mantra “breaking limits; reaching the peak.” As an NGO, we host conferences to help individuals reach their peak as we bring the best minds 
+to our platform to share their success principles and tips that got them to the top.
           </Note>
         
         </Composition>
@@ -91,7 +77,7 @@ width: 100%;
 }
 `;
 const Composition = styled.div`
-  /* background: green; */
+  
   /* font-size: 50px; */
   display: flex;
   flex-direction: column;
@@ -107,7 +93,7 @@ margin-top:10px ;
 const Wrapper = styled.div`
   display: flex;
  
-  /* color: white; */
+ 
   height: 100%;
   width: 100%;
 justify-content: space-evenly;
@@ -131,7 +117,7 @@ const Container = styled.div`
 align-items: center;
 justify-content: center;
 color:black ;
-  /* background-color: rgb(4, 4, 62); */
+  
   background-color: white;
   display: flex;
   /* align-items: center;
