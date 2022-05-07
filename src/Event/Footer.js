@@ -7,7 +7,7 @@ const Footer = ({ txtA }) => {
   return (
     <Container txtA={txtA}>
       <Left txtA={txtA}>
-        <Logo>TECH CONGRESS</Logo>
+        <Logo>GLOBAL CONFERENCE</Logo>
 
         <Icon>
           <FaFacebook />
@@ -21,9 +21,8 @@ const Footer = ({ txtA }) => {
           <ListHead>Companies</ListHead>
           <Lists>
             <List>Home</List>
+           <List>About</List>
             <List>Hosts</List>
-            <List>About</List>
-         
             <List>Speakers</List>
             <List>Contact us</List>
           </Lists>
